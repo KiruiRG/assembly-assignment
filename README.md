@@ -1,4 +1,5 @@
 # assembly-assignment
+165947 - ICS 3D
 Questions
 1. Write a C program to calculate and display the factorial of a number entered by the user.
 2. Write a Assembly assembly program that adds numbers from 15 to 25 using a loop.
