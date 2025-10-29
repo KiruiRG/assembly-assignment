@@ -1,4 +1,4 @@
-# assembly-assignment
+# Assembly Assignment
 165947 - ICS 3D
 Questions
 1. Write a C program to calculate and display the factorial of a number entered by the user.
